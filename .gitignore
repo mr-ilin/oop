@@ -46,6 +46,7 @@ _deps
 Extra/
 extra
 build/*
+*build/*
 .cmake
 
 ### CMake Patch ###
