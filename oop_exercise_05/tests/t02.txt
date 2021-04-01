@@ -1,0 +1,9 @@
+add 0 4 4 1 1
+print
+del 4 
+print
+del 0
+print
+add 10 10 4 3 6
+add 0 10 4 3 6
+print

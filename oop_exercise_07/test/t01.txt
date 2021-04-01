@@ -1,0 +1,14 @@
+create
+a01.txt
+add triangle 0 0 10
+print
+add hexagon 1 2 10
+print
+add octagon 1 3 6
+print
+undo 
+print
+undo
+print
+undo
+print

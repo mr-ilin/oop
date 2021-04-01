@@ -1,0 +1,9 @@
+adf triangle 0 1 2
+add haxd 3 2 1
+add hexagon 0 1 2
+add hexagon a 2 3
+add triangle a a 3
+add octagon 1 a 3
+add hexagon 1 2 a
+add triangle 1 2 -10
+print
